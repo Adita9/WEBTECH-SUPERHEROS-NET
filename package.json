@@ -1,0 +1,26 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adita9/WEBTECH-SUPERHEROS-NET.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adita9/WEBTECH-SUPERHEROS-NET/issues"
+  },
+  "homepage": "https://github.com/Adita9/WEBTECH-SUPERHEROS-NET#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql2": "^1.5.1",
+    "nodeadmin": "^0.1.2",
+    "sequelize": "^4.27.0"
+  }
+}
